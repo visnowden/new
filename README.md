@@ -1,2 +1,2 @@
-# new it's a project to test the learning of estudants
 # new
+Ótimos nomes de repositórios são curtos e memoráveis.
