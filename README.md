@@ -1,2 +1,2 @@
 # new
-Ótimos nomes de repositórios são curtos e memoráveis.
+Great repository names are short and memorable.
